@@ -31,9 +31,26 @@ The proposal is the first gate. Write it so the professor can tell you two thing
 whether the scope fits eight weeks, and whether the architecture holds up. Vague
 proposals come back with change requests.
 
-For project ideas, see the
-[DSAN 6725 Final Project](https://github.com/gu-dsan6725/spring-2026-georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2026-final-project)
-repository.
+## Project ideas
+
+Four areas the professor would like to see someone take on.
+
+- **Semantic layer for agents over enterprise data.** Give agents a governed,
+  business-aware view of enterprise data, so they work with data you already
+  understand. Look at emerging open standards such as Open Semantic Interchange (OSI).
+- **AI-powered code transformation.** Turn Python into Go or Rust for performance.
+  Picture millions of agents optimized this way, and the aggregate compute saving is
+  enormous.
+- **Memory MCP server for coding assistants.** A persistent memory layer for AI coding
+  tools, holding context across sessions.
+- **Agent evaluations framework.** Benchmark multi-step agent tasks, and measure tool
+  use and reasoning.
+
+Propose any other idea that comes to mind. These four are the areas the professor finds
+interesting, and a project outside them is just as welcome.
+
+The [DSAN 6725 Final Project](https://github.com/gu-dsan6725/spring-2026-georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2026-final-project)
+repository has what students built last semester.
 
 ## Deliverables
 
