@@ -15,6 +15,10 @@ happens once every team composition is in Canvas.
 **If you have not submitted your team composition in Canvas, do it now.** Every team
 waits on the last one, so a single missing submission holds up the whole class.
 
+Teams run 2 to 4 members. Five needs separate explicit approval from the professor,
+and an approved five-person project has to carry enough work for all five to show a
+real contribution.
+
 Do not wait on us to start collaborating. Use any GitHub repository your team already
 has, and move the code across when we hand you the real one.
 
@@ -49,8 +53,7 @@ to industry meetups, company showcases, and academic workshops. Good projects en
 on LinkedIn and in front of prospective employers, so write the paper like a paper and
 make the repository run on someone else's machine.
 
-The [DSAN 6725 Final Project](https://github.com/gu-dsan6725/spring-2026-georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2026-final-project)
-repository has the lengths, formats, milestone dates, and grading weights.
+Grading weights for the individual pieces will come in due course.
 
 ## What the software must do
 
@@ -177,7 +180,9 @@ merges.
 ## FAQ
 
 **Can I submit alone, or with more than four people?**
-No. Teams run 2 to 4 members.
+Teams run 2 to 4 members, so working alone is out. Five needs separate explicit
+approval from the professor. The automated check rejects a five-person roster, so note
+your approval in the pull request and we will merge past the red check.
 
 **Which team number do I use?**
 Your project group number, the same one as your `Project Group N` team in the
