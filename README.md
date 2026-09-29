@@ -21,16 +21,58 @@ has, and move the code across when we hand you the real one.
 ## Overview
 
 DSAN 6725 is an applied AI course. Your final project is production-quality software
-that solves a real problem. Every project must implement AI agents unless the
-professor approves another approach.
+that solves a real problem.
 
 The proposal is the first gate. Write it so the professor can tell you two things:
 whether the scope fits eight weeks, and whether the architecture holds up. Vague
 proposals come back with change requests.
 
-For project ideas and the full list of final deliverables, see the
+For project ideas, see the
 [DSAN 6725 Final Project](https://github.com/gu-dsan6725/spring-2026-georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2026-final-project)
 repository.
+
+## Deliverables
+
+These are due at the end of the semester. Your proposal commits you to the project
+that produces them.
+
+| Deliverable | What it is |
+| ----------- | ---------- |
+| Paper | A conference-style write-up of the problem, the design, and your results |
+| Poster | A one-sheet visual summary you can stand next to and talk through |
+| Demo video | A recording of your system working end to end |
+| Code repository | The working system, documented well enough for a stranger to run |
+| Slide deck | The talk you give at the final presentation |
+
+Build all five for an audience outside this classroom. Students have taken this work
+to industry meetups, company showcases, and academic workshops. Good projects end up
+on LinkedIn and in front of prospective employers, so write the paper like a paper and
+make the repository run on someone else's machine.
+
+The [DSAN 6725 Final Project](https://github.com/gu-dsan6725/spring-2026-georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2026-final-project)
+repository has the lengths, formats, milestone dates, and grading weights.
+
+## What the software must do
+
+Every project is an agentic AI application, unless the professor approves another
+approach. One agent or several is your call. Agents have to do the work.
+
+- **Deployment.** The agents run on a VM, local or in the cloud.
+- **Models.** Use local models, hosted models, or both, and say why.
+- **Inference.** Decide how you serve and call the model, and report what it costs.
+- **Agentic search.** Your agents go and retrieve what they need instead of carrying
+  everything in the prompt.
+- **Guardrails.** Constrain what the system says and does, and show the constraints
+  working.
+- **Performance.** Measure latency, throughput, and cost per task.
+- **Evaluations.** Build an eval set and report your numbers against it.
+
+Evaluations carry more weight than any other part of the build, and your submission has
+to show the proof. Hand us the eval set, the harness that runs it, the scores, and what
+you changed after reading them. Any claim that your system works needs numbers behind
+it.
+
+A web app that calls a chat completion endpoint once does not qualify.
 
 ## What to submit
 
