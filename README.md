@@ -33,7 +33,7 @@ proposals come back with change requests.
 
 ## Project ideas
 
-Four areas the professor would like to see someone take on.
+Four areas to set some ideas in motion.
 
 - **Semantic layer for agents over enterprise data.** Give agents a governed,
   business-aware view of enterprise data, so they work with data you already
@@ -46,8 +46,8 @@ Four areas the professor would like to see someone take on.
 - **Agent evaluations framework.** Benchmark multi-step agent tasks, and measure tool
   use and reasoning.
 
-Propose any other idea that comes to mind. These four are the areas the professor finds
-interesting, and a project outside them is just as welcome.
+You can choose other topics that interest you. We review every proposal before
+approving it, so bring us the idea your team wants to build.
 
 The [DSAN 6725 Final Project](https://github.com/gu-dsan6725/spring-2026-georgetown-university-dsan6725-applied-genai-for-ai-developers-spring-2026-final-project)
 repository has what students built last semester.
