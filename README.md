@@ -14,7 +14,7 @@ that solves a real problem. Every project must implement AI agents unless the
 professor approves another approach.
 
 The proposal is the first gate. Write it so the professor can tell you two things:
-whether the scope fits six weeks, and whether the architecture holds up. Vague
+whether the scope fits eight weeks, and whether the architecture holds up. Vague
 proposals come back with change requests.
 
 For project ideas and the full list of final deliverables, see the
@@ -49,7 +49,7 @@ not yet know what you are building.
 3. **The data and tools.** Name the data sources, APIs, and services, and confirm you
    can reach them.
 4. **The evaluation.** Name the metrics. Say what counts as working.
-5. **The biggest risk.** The one thing most likely to stop you finishing in six
+5. **The biggest risk.** The one thing most likely to stop you finishing in eight
    weeks, and your plan for it.
 
 Most weak proposals fail on 3 and 5. A proposal comes back when the data source turns
@@ -58,21 +58,8 @@ names it.
 
 ## How to submit
 
-### Option A: in the browser
-
-Use this if you want to add one file and set nothing up.
-
-1. Open [TEMPLATE.md](TEMPLATE.md) and copy the whole file.
-2. Go to the [proposals](proposals) folder, click **Add file**, then **Create new
-   file**.
-3. Name the file `team-NN.md` with your two digit team number. GitHub offers to fork
-   the repository. Accept.
-4. Paste the template, fill it in, and click **Propose new file**.
-5. Open the pull request and work through the checklist in the description.
-
-### Option B: on the command line
-
-Use this if you want to run the check before you submit.
+Fork the repository, add your file on a branch, and open a pull request. Run the
+check before you push, so you find the problems before the reviewer does.
 
 ```bash
 # Fork and clone. Team 07 is the example throughout.
@@ -101,6 +88,8 @@ Install `uv` first if you do not have it:
 curl -LsSf https://astral.sh/uv/install.sh | sh
 source $HOME/.local/bin/env
 ```
+
+Once the pull request is open, work through the checklist in its description.
 
 ## What the automated check covers
 

@@ -41,5 +41,5 @@ the short login like ab1234 rather than your email address.
 2. Your agent architecture: what the agents are and how they coordinate
 3. The data sources and external tools or APIs you will use
 4. How you will evaluate the system, and what you will measure
-5. The biggest risk to finishing in six weeks, and your plan for it
+5. The biggest risk to finishing in eight weeks, and your plan for it
 -->
