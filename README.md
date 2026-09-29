@@ -7,6 +7,17 @@ your project title and abstract. The professor approves it before you start buil
 
 **Due: Tuesday, October 6, 2026.**
 
+## Team repositories, and what to do today
+
+We create a separate project repository for each team in this organization. That
+happens once every team composition is in Canvas.
+
+**If you have not submitted your team composition in Canvas, do it now.** Every team
+waits on the last one, so a single missing submission holds up the whole class.
+
+Do not wait on us to start collaborating. Use any GitHub repository your team already
+has, and move the code across when we hand you the real one.
+
 ## Overview
 
 DSAN 6725 is an applied AI course. Your final project is production-quality software
