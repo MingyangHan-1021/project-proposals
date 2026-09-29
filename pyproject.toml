@@ -1,0 +1,7 @@
+[project]
+name = "project-proposals"
+version = "0.1.0"
+description = "Final project proposal submissions for DSAN 6725, Applied Generative AI"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
