@@ -1,10 +1,11 @@
 # Proposals
 
 One file per team, named `team-NN.md`, where `NN` is your two digit project group
-number. Project group 7 submits `team-07.md`, project group 13 submits `team-13.md`.
+number. Project group 7 submits `team-07.md`, and project group 13 submits
+`team-13.md`.
 
-One file per team is what keeps this repo free of merge conflicts. Do not edit
-another team's file, and do not rename an existing one.
+One file per team keeps merge conflicts out of this repo. Do not edit another team's
+file, and do not rename one.
 
-`team-00.md` is a worked example. Read it to see the expected level of detail, then
-start from [TEMPLATE.md](../TEMPLATE.md) rather than by copying the example.
+`team-00.md` is a worked example. Read it for the level of detail, then start from
+[TEMPLATE.md](../TEMPLATE.md) instead of copying the example.
