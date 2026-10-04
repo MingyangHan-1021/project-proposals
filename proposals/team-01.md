@@ -11,10 +11,11 @@ Grand Theft Agents
 ## Team Members
 
 | Name | NetID |
+| ---- | ----- |
 | Mingyang Han | mh2393 |
-| Yuhua Pang |  yp310    |
-| Wenhao Zhou |    wz335   |
-| Zhaoyang Dong |   zd199    |
+| Yuhua Pang | yp310 |
+| Wenhao Zhou | wz335 |
+| Zhaoyang Dong | zd199 |
 
 ## Project Title
 
